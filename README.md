@@ -1,8 +1,11 @@
 # Simple restful API based on lib. javax.ws.rs
 
 Java eclispse EE
+
 Tomcat apache v9
+
 Jersey v2.25.1
+
 MySQL workbench
 
 Using a model Student and a data transfer object (DTO) StudentDTO
