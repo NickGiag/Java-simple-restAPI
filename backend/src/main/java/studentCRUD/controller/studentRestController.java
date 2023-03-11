@@ -122,6 +122,8 @@ public class studentRestController {
 		
 	}
 	
+	/**
+	 * file upload
 	@POST
 	@Consumes(MediaType.MULTIPART_FORM_DATA)
 	@Produces(MediaType.APPLICATION_JSON)
@@ -156,5 +158,5 @@ public class studentRestController {
         }
         
         
-	}
+	} */
 }
