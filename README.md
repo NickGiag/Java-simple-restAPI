@@ -15,6 +15,7 @@ For database connection used jdbs driver and DBUtil for opening and closing conn
 
 The a service layer which implements DAO classes and then the controller listening for HTTP requests, in web.xml I connect the servlet to the web server.
 
+Using Postman sending a POST Method to the URL create a new student, waiting to consume application/x-www-form-urlencoded. Keys and Values as seen in the picture.
 ![POST method creating a student](https://github.com/NickGiag/Java-simple-restAPI/blob/main/screenshots/POST%20createStudent.png)
 
 
