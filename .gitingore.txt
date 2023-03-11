@@ -1,1 +1,1 @@
-backend/Users*
+**/Users
